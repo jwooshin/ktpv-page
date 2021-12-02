@@ -1,0 +1,7 @@
+.container {
+  width: 500px;
+  height: 200px;
+  margin: 0 auto;
+  background-image: url(../public/bg.png);
+  background-size: cover;
+}
